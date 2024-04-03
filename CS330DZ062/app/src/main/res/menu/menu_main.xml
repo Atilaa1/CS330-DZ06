@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/menu_fit"
+        android:title="FIT"/>
+    <item
+        android:id="@+id/menu_management"
+        android:title="Fakultet za menadžment"/>
+    <item
+        android:id="@+id/menu_digital_arts"
+        android:title="Fakultet digitalnih umetnosti"/>
+</menu>
